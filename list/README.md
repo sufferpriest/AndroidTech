@@ -5,3 +5,4 @@ miui_motion: same to MIUI list motion detector.
 
 小米沉浸式状态栏举例：https://github.com/jgilfelt/SystemBarTint
 
+小米各种APP的反编译资源：https://gitgeek.net/rilong12/miui/tree/jellybean42-mtk
